@@ -45,7 +45,7 @@ class pantallaJuego : AppCompatActivity() {
             if (contadorAyudas==4){
                 val lanzar = Intent(this, MainActivity::class.java)
                 startActivity(lanzar)
-            } // pasar al siguiente
+            } // pasar  al siguiente
 
         }
         chance.setOnClickListener {
