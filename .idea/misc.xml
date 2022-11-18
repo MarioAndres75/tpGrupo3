@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ONECOM/AndroidStudioProjects/tpGrupo3/app/src/main/res/layout/activity_easy_mode.xml" value="0.25" />
+        <entry key="..\:/Users/ONECOM/AndroidStudioProjects/tpGrupo3/app/src/main/res/layout/activity_end_game.xml" value="0.13405797101449277" />
         <entry key="..\:/Users/ONECOM/AndroidStudioProjects/tpGrupo3/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/Users/ONECOM/AndroidStudioProjects/tpGrupo3/app/src/main/res/layout/activity_pantalla_juego.xml" value="0.25" />
+        <entry key="..\:/Users/ONECOM/AndroidStudioProjects/tpGrupo3/app/src/main/res/layout/activity_pantalla_juego.xml" value="0.22" />
       </map>
     </option>
   </component>
